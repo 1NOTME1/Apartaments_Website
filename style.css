@@ -19,7 +19,7 @@
     background-color: transparent;
     font-weight: bold;
     padding: 10px 10px;
-    font-size: 21px;
+    font-size: 18px;
     text-transform: uppercase;
 
 }
@@ -42,3 +42,7 @@
     /* background-color: #333; */
     width: 100%;
   }
+  
+  #login i {
+    margin:27px;
+}
